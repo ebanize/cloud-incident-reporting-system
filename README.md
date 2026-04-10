@@ -179,3 +179,18 @@ Monitoring & Alerts:
 
 - Error Handling:
   Implemented try/catch around SNS to prevent failures from affecting main API flow
+
+
+## Screenshots
+
+### User Interface
+![UI](docs/ui.png)
+
+### Incident List
+![Incidents](docs/incidents.png)
+
+### SNS Notification
+![SNS](docs/sns-email.png)
+
+### Architecture Diagram
+![Architecture](docs/architecture.png)
